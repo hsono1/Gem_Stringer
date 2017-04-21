@@ -2,19 +2,7 @@
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'stringer'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install stringer
+You can use this gem locally in your projects. In the Gemfile file add: gem "stringer", :git => "git://github.com/hsono1/Gem_stringer.git"
 
 ## Usage
 
