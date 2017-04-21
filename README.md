@@ -2,7 +2,9 @@
 
 ## Installation
 
-You can use this gem locally in your projects. In the Gemfile file add: gem "stringer", :git => "git://github.com/hsono1/Gem_stringer.git"
+You can use this gem locally in your projects. In the Gemfile file add: 
+
+gem "stringer", :git => "git://github.com/hsono1/Gem_stringer.git"
 
 ## Usage
 
